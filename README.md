@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%2E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Architecture-Engineering-Construction-AEC-Bim-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Architecture-Engineering-Construction-AEC-Bim-Tools?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Architecture-Engineering-Construction-AEC-Bim-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Architecture-Engineering-Construction-AEC-Bim-Tools?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Architecture-Engineering-Construction-AEC-Bim-Tools/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Architecture-Engineering-Construction-AEC-Bim-Tools?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Architecture-Engineering-Construction-AEC-Bim-Tools/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg" alt="License: CC0-1.0" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -59,63 +59,63 @@ The following table provides detailed pricing, verified free tiers / trial limit
 
 ## 💻 Open-Source GitHub Projects
 
-An actively maintained collection of open-source AEC, BIM, and spatial computing tools, **sorted in descending order by GitHub stars**. Each repository includes a live social star badge linking directly to its stargazers page.
+An actively maintained collection of open-source AEC, BIM, and spatial computing tools, **sorted in descending order by GitHub_Stars**. Each repository includes a live social Stars_Badge linking directly to its stargazers page.
 
-- **[FreeCAD (BIM Workbench)](https://github.com/FreeCAD/FreeCAD)** [![GitHub stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)  
+- **[FreeCAD (BIM Workbench)](https://github.com/FreeCAD/FreeCAD)** [![GitHub_Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)  
   Cross-platform open-source parametric 3D CAD and BIM software supporting native IFC import/export, structural modeling, and 2D drawing generation.
 
-- **[OpenProject (BIM Edition)](https://github.com/opf/openproject)** [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
+- **[OpenProject (BIM Edition)](https://github.com/opf/openproject)** [![GitHub_Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
   Open-source project management and Common Data Environment (CDE) platform featuring integrated 3D IFC model viewing and BCF issue tracking.
 
-- **[Potree](https://github.com/potree/potree)** [![GitHub stars](https://img.shields.io/github/stars/potree/potree?style=social&color=white)](https://github.com/potree/potree/stargazers)  
+- **[Potree](https://github.com/potree/potree)** [![GitHub_Stars](https://img.shields.io/github/stars/potree/potree?style=social&color=white)](https://github.com/potree/potree/stargazers)  
   WebGL-based open-source point cloud renderer for massive LiDAR, drone photogrammetry, and scan-to-BIM datasets.
 
-- **[CloudCompare](https://github.com/CloudCompare/CloudCompare)** [![GitHub stars](https://img.shields.io/github/stars/CloudCompare/CloudCompare?style=social&color=white)](https://github.com/CloudCompare/CloudCompare/stargazers)  
+- **[CloudCompare](https://github.com/CloudCompare/CloudCompare)** [![GitHub_Stars](https://img.shields.io/github/stars/CloudCompare/CloudCompare?style=social&color=white)](https://github.com/CloudCompare/CloudCompare/stargazers)  
   3D point cloud processing, mesh manipulation, and scan-vs-BIM as-built comparison software.
 
-- **[IfcOpenShell & Bonsai](https://github.com/IfcOpenShell/IfcOpenShell)** [![GitHub stars](https://img.shields.io/github/stars/IfcOpenShell/IfcOpenShell?style=social&color=white)](https://github.com/IfcOpenShell/IfcOpenShell/stargazers)  
+- **[IfcOpenShell & Bonsai](https://github.com/IfcOpenShell/IfcOpenShell)** [![GitHub_Stars](https://img.shields.io/github/stars/IfcOpenShell/IfcOpenShell?style=social&color=white)](https://github.com/IfcOpenShell/IfcOpenShell/stargazers)  
   Foundational open-source C++ and Python library, geometry engine, and native IFC authoring environment (Bonsai / BlenderBIM) for parsing, authoring, and validating IFC BIM models.
 
-- **[pyRevit](https://github.com/pyrevitlabs/pyRevit)** [![GitHub stars](https://img.shields.io/github/stars/pyrevitlabs/pyRevit?style=social&color=white)](https://github.com/pyrevitlabs/pyRevit/stargazers)  
+- **[pyRevit](https://github.com/pyrevitlabs/pyRevit)** [![GitHub_Stars](https://img.shields.io/github/stars/pyrevitlabs/pyRevit?style=social&color=white)](https://github.com/pyrevitlabs/pyRevit/stargazers)  
   Popular open-source Rapid Application Development (RAD) environment for Autodesk Revit enabling BIM managers to automate workflows using Python and .NET.
 
-- **[BIMserver (Open-Source BIM Server)](https://github.com/opensourceBIM/BIMserver)** [![GitHub stars](https://img.shields.io/github/stars/opensourceBIM/BIMserver?style=social&color=white)](https://github.com/opensourceBIM/BIMserver/stargazers)  
+- **[BIMserver (Open-Source BIM Server)](https://github.com/opensourceBIM/BIMserver)** [![GitHub_Stars](https://img.shields.io/github/stars/opensourceBIM/BIMserver?style=social&color=white)](https://github.com/opensourceBIM/BIMserver/stargazers)  
   Self-hosted open-source model server built on an IFC-driven core for storing, querying, merging, and versioning building information models.
 
-- **[xeokit-sdk](https://github.com/xeokit/xeokit-sdk)** [![GitHub stars](https://img.shields.io/github/stars/xeokit/xeokit-sdk?style=social&color=white)](https://github.com/xeokit/xeokit-sdk/stargazers)  
+- **[xeokit-sdk](https://github.com/xeokit/xeokit-sdk)** [![GitHub_Stars](https://img.shields.io/github/stars/xeokit/xeokit-sdk?style=social&color=white)](https://github.com/xeokit/xeokit-sdk/stargazers)  
   High-performance open-source 3D WebGL graphics SDK engineered specifically for viewing massive, full-precision AEC BIM models (IFC, BCF, glTF, point clouds) in web browsers.
 
-- **[Speckle (Open-Source AEC Data Hub)](https://github.com/specklesystems/speckle-server)** [![GitHub stars](https://img.shields.io/github/stars/specklesystems/speckle-server?style=social&color=white)](https://github.com/specklesystems/speckle-server/stargazers)  
+- **[Speckle (Open-Source AEC Data Hub)](https://github.com/specklesystems/speckle-server)** [![GitHub_Stars](https://img.shields.io/github/stars/specklesystems/speckle-server?style=social&color=white)](https://github.com/specklesystems/speckle-server/stargazers)  
   Open-source collaborative 3D/BIM data platform and connector ecosystem enabling real-time geometry and metadata streaming between Revit, Rhino, Grasshopper, Blender, and AutoCAD.
 
-- **[That Open Engine (formerly IFC.js)](https://github.com/ThatOpen/engine_components)** [![GitHub stars](https://img.shields.io/github/stars/ThatOpen/engine_components?style=social&color=white)](https://github.com/ThatOpen/engine_components/stargazers)  
+- **[That Open Engine (formerly IFC.js)](https://github.com/ThatOpen/engine_components)** [![GitHub_Stars](https://img.shields.io/github/stars/ThatOpen/engine_components?style=social&color=white)](https://github.com/ThatOpen/engine_components/stargazers)  
   High-performance open-source TypeScript and Three.js toolkit for building browser-native 3D BIM viewers, IFC parsers, and cloud AEC web applications.
 
-- **[Autodesk Revit IFC](https://github.com/Autodesk/revit-ifc)** [![GitHub stars](https://img.shields.io/github/stars/Autodesk/revit-ifc?style=social&color=white)](https://github.com/Autodesk/revit-ifc/stargazers)  
+- **[Autodesk Revit IFC](https://github.com/Autodesk/revit-ifc)** [![GitHub_Stars](https://img.shields.io/github/stars/Autodesk/revit-ifc?style=social&color=white)](https://github.com/Autodesk/revit-ifc/stargazers)  
   Open-source .NET/C# codebase for Autodesk Revit's official IFC export and import functions across multiple schema versions.
 
-- **[xBIM Toolkit](https://github.com/xBimTeam/XbimEssentials)** [![GitHub stars](https://img.shields.io/github/stars/xBimTeam/XbimEssentials?style=social&color=white)](https://github.com/xBimTeam/XbimEssentials/stargazers)  
+- **[xBIM Toolkit](https://github.com/xBimTeam/XbimEssentials)** [![GitHub_Stars](https://img.shields.io/github/stars/xBimTeam/XbimEssentials?style=social&color=white)](https://github.com/xBimTeam/XbimEssentials/stargazers)  
   Open-source .NET/C# software toolkit for working with building data in the IFC format, geometric processing, and web visualization.
 
-- **[Hypar Elements](https://github.com/hypar-io/Elements)** [![GitHub stars](https://img.shields.io/github/stars/hypar-io/Elements?style=social&color=white)](https://github.com/hypar-io/Elements/stargazers)  
+- **[Hypar Elements](https://github.com/hypar-io/Elements)** [![GitHub_Stars](https://img.shields.io/github/stars/hypar-io/Elements?style=social&color=white)](https://github.com/hypar-io/Elements/stargazers)  
   Open-source cross-platform C# library and data model for generative building design, automated layout calculations, and BIM workflows.
 
-- **[COMPAS Framework](https://github.com/compas-dev/compas)** [![GitHub stars](https://img.shields.io/github/stars/compas-dev/compas?style=social&color=white)](https://github.com/compas-dev/compas/stargazers)  
+- **[COMPAS Framework](https://github.com/compas-dev/compas)** [![GitHub_Stars](https://img.shields.io/github/stars/compas-dev/compas?style=social&color=white)](https://github.com/compas-dev/compas/stargazers)  
   Open-source computational framework for collaboration, structural modeling, and research in architecture, engineering, and digital fabrication in Python.
 
-- **[IfcTester / IDS](https://github.com/buildingSMART/IDS)** [![GitHub stars](https://img.shields.io/github/stars/buildingSMART/IDS?style=social&color=white)](https://github.com/buildingSMART/IDS/stargazers)  
+- **[IfcTester / IDS](https://github.com/buildingSMART/IDS)** [![GitHub_Stars](https://img.shields.io/github/stars/buildingSMART/IDS?style=social&color=white)](https://github.com/buildingSMART/IDS/stargazers)  
   Official openBIM Information Delivery Specification (IDS) model checking, validation, and automated compliance auditing toolset.
 
-- **[BCF-XML / OpenBCF Tools](https://github.com/buildingSMART/BCF-XML)** [![GitHub stars](https://img.shields.io/github/stars/buildingSMART/BCF-XML?style=social&color=white)](https://github.com/buildingSMART/BCF-XML/stargazers)  
+- **[BCF-XML / OpenBCF Tools](https://github.com/buildingSMART/BCF-XML)** [![GitHub_Stars](https://img.shields.io/github/stars/buildingSMART/BCF-XML?style=social&color=white)](https://github.com/buildingSMART/BCF-XML/stargazers)  
   Official open-standard XML schemas, documentation, and reference tools for BIM Collaboration Format (BCF) issue tracking.
 
-- **[Ladybug Tools](https://github.com/ladybug-tools/ladybug)** [![GitHub stars](https://img.shields.io/github/stars/ladybug-tools/ladybug?style=social&color=white)](https://github.com/ladybug-tools/ladybug/stargazers)  
+- **[Ladybug Tools](https://github.com/ladybug-tools/ladybug)** [![GitHub_Stars](https://img.shields.io/github/stars/ladybug-tools/ladybug?style=social&color=white)](https://github.com/ladybug-tools/ladybug/stargazers)  
   Open-source environmental and building performance simulation suite connecting CAD/BIM tools to validated simulation engines (EnergyPlus, Radiance).
 
-- **[BIMvie.ws](https://github.com/opensourceBIM/bimvie.ws)** [![GitHub stars](https://img.shields.io/github/stars/opensourceBIM/BIMvie.ws?style=social&color=white)](https://github.com/opensourceBIM/bimvie.ws/stargazers)  
+- **[BIMvie.ws](https://github.com/opensourceBIM/bimvie.ws)** [![GitHub_Stars](https://img.shields.io/github/stars/opensourceBIM/BIMvie.ws?style=social&color=white)](https://github.com/opensourceBIM/bimvie.ws/stargazers)  
   Open-source web-based BIM user interface and plugin framework designed to interact with BIMserver repositories directly from a browser.
 
-- **[sam-aec/aec-model-bridge](https://github.com/Sam-AEC/aec-model-bridge)** [![GitHub stars](https://img.shields.io/github/stars/sam-aec/aec-model-bridge?style=social&color=white)](https://github.com/Sam-AEC/aec-model-bridge/stargazers)  
+- **[sam-aec/aec-model-bridge](https://github.com/Sam-AEC/aec-model-bridge)** [![GitHub_Stars](https://img.shields.io/github/stars/sam-aec/aec-model-bridge?style=social&color=white)](https://github.com/Sam-AEC/aec-model-bridge/stargazers)  
   Interoperability and model bridge utility connecting BIM workflows across architectural and engineering environments.
 
 ---
